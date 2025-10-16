@@ -7,5 +7,16 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0006,Ciotola automatica,Ciotola con timer integrato,Ciotole,20.00,TRUE,FALSE
 0007,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
 0008,Ciotola cibo e acqua,Ciotola doppia in plastica,Ciotole,10.00,TRUE,FALSE
-0009,Ciotole piccole,"4 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
-0010,Ciotole grandi
+0009,Ciotole piccole,"Disponibili 4 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
+0010,Ciotole grandi,"Disponibili 2 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
+0011,Ciotole medie con portaciotole,Ciotole e supporto in metallo,Ciotole,7.00,TRUE,FALSE
+0012,Rialzo ciotole cibo e acqua,Ciotole con rialzo in metallo,Ciotole,15.00,TRUE,FALSE
+0013,Ciotola automatica,Ciotola con timer integrato,Ciotole,15.00,TRUE,FALSE
+0014,Ciotola da viaggio,"Ciotola pieghevole, con materiale leggero e impermeabile",Ciotole,4.00,TRUE,FALSE
+0015,Borraccia da viaggio,,Ciotole,5.00,TRUE,FALSE
+0016,Gioco ""Catch"","Gioco in plastica, disponibili 3 pezzi in tre diverse colorazioni",Giochi,5.00,TRUE,FALSE
+0019,Gioco lancia pallina,,Giochi,5.00,TRUE,FALSE
+0020,Trasportino rigido,Adatto a piccole taglie,Trasporti,15.00,TRUE,FALSE
+0022,Trasportino a spalla,Adatto a piccole taglie,Trasporti,10.00,TRUE,FALSE
+0024,Trasportino morbido,Adatto a piccole taglie,Trasporti,10.00,TRUE,FALSE
+0025,Trolley,Adatto a piccole taglie,Trasporti,20.00,TRUE,FALSE
