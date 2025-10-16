@@ -1,4 +1,11 @@
 id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
-001,Ciotola Rossa,Ciotola in ceramica,Ciotole,15.00,TRUE,TRUE
-002,Guinzaglio Blu,Lunghina di pelle blu,Guinzagli,10.00,TRUE,FALSE
-003,Cuccia spaziosa,Cuccia per cane,Cucce,20,TRUE,FALSE
+0001,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
+0002,Ciotola cibo e acqua con rialzo,"Ciotole grandi in metallo, rialzo in plastica",Ciotole,15.00,TRUE,FALSE
+0003,Ciotola automatica,Ciotola con timer integrato,Ciotole,25.00,TRUE,FALSE
+0004,Ciotole cibo e acqua,Ciotole grandi coordinate in plastica ,Ciotole,10.00,TRUE,FALSE
+0005,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
+0006,Ciotola automatica,Ciotola con timer integrato,Ciotole,20.00,TRUE,FALSE
+0007,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
+0008,Ciotola cibo e acqua,Ciotola doppia in plastica,Ciotole,10.00,TRUE,FALSE
+0009,Ciotole piccole,"4 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
+0010,Ciotole grandi
