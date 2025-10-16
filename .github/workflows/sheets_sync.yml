@@ -48,5 +48,5 @@ jobs:
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update prodotti da Google Sheets" && git push)
           git fetch origin prod || git checkout -b prod
           git checkout prod || git checkout -b prod
-          git merge main --no-edit -m "Auto-sync: Merge immagini and aggiornamento CSV in prod"
+          git merge main --no-edit --allow-unrelated-histories -m "Auto-sync: Merge immagini and aggiornamento CSV in prod"
           git push origin prod
