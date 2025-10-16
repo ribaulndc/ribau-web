@@ -4,6 +4,11 @@ on:
   # schedule:
     # Runs every 30 minutes
     # - cron: '*/30 * * * *'
+  push:
+    branches:
+      - main  
+    paths:
+      - 'public/images/products/**'
   workflow_dispatch: # Allows manual trigger from Actions tab
 
 permissions:
@@ -41,3 +46,7 @@ jobs:
           git config --global user.email 'action@github.com'
           git add public/data/products.csv package.json package-lock.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update prodotti da Google Sheets" && git push)
+          git fetch origin prod || git checkout -b prod
+          git checkout prod || git checkout -b prod
+          git merge main --no-edit -m "Auto-sync: Merge immagini and aggiornamento CSV in prod"
+          git push origin prod
