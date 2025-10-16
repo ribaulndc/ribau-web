@@ -40,13 +40,17 @@ jobs:
           GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: node scripts/sheets_sync.js
 
-      - name: Commit and push if changed
+      - name: Commit updated CSV to main
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
           git add public/data/products.csv package.json package-lock.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update prodotti da Google Sheets" && git push)
-          git fetch origin prod || git checkout -b prod
-          git checkout prod || git checkout -b prod
-          git merge main --no-edit --allow-unrelated-histories -m "Auto-sync: Merge immagini and aggiornamento CSV in prod"
-          git push origin prod
+          git commit -m "Auto-update CSV da Google Sheets" || echo "No changes to commit"
+          git push origin main
+
+      - name: Force sync prod branch from main
+        run: |
+          git fetch origin prod
+          git checkout -B prod
+          git merge origin/main --strategy-option=theirs --allow-unrelated-histories || true
+          git push origin prod --force
