@@ -1,0 +1,3 @@
+id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
+001,Ciotola Rossa,Ciotola in ceramica,Ciotole,15.00,TRUE,TRUE
+002,Guinzaglio Blu,Lunghina di pelle blu,Guinzagli,10.00,TRUE,FALSE
