@@ -40,4 +40,4 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add public/data/products.csv package.json package-lock.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update products from Google Sheets [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update prodotti da Google Sheets" && git push)
