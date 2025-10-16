@@ -12,7 +12,7 @@
         
         <!-- Navigation Arrows (only show if multiple images) -->
         <button 
-          v-if="availableImages.length > 1"
+          v-if="hasMultipleImages"
           class="carousel-btn prev"
           @click.stop="prevImage"
           aria-label="Previous image"
@@ -20,7 +20,7 @@
           ‹
         </button>
         <button 
-          v-if="availableImages.length > 1"
+          v-if="hasMultipleImages"
           class="carousel-btn next"
           @click.stop="nextImage"
           aria-label="Next image"
@@ -29,7 +29,7 @@
         </button>
 
         <!-- Image Dots Indicator -->
-        <div v-if="availableImages.length > 1" class="carousel-dots">
+        <div v-if="hasMultipleImages" class="carousel-dots">
           <span 
             v-for="(img, index) in availableImages" 
             :key="index"
@@ -81,31 +81,44 @@ export default {
   computed: {
     currentImage() {
       return this.availableImages[this.currentImageIndex] || this.fallbackImage;
+    },
+    hasMultipleImages() {
+      return this.availableImages.length > 1;
     }
   },
   mounted() {
     this.loadAvailableImages();
   },
   methods: {
-    loadAvailableImages() {
-      // Try to load up to 3 images for this product
-      const imageExtensions = ['jpg', 'jpeg', 'png'];
+    async loadAvailableImages() {
       const images = [];
+      
+      // Helper function to check if image exists
+      const checkImage = (src) => {
+        return new Promise((resolve) => {
+          const img = new Image();
+          img.onload = () => resolve(true);
+          img.onerror = () => resolve(false);
+          img.src = src;
+        });
+      };
 
+      // Check single image format (id.jpg)
+      const singleImg = `/images/products/${this.product.id}.jpg`;
+      if (await checkImage(singleImg)) {
+        images.push(singleImg);
+      }
+      
+      // Check numbered format (id_1.jpg, id_2.jpg, id_3.jpg)
       for (let i = 1; i <= 3; i++) {
-        for (const ext of imageExtensions) {
-          const imgPath = `/images/products/${this.product.id}_${i}.${ext}`;
-          images.push(imgPath);
+        const numberedImg = `/images/products/${this.product.id}_${i}.jpg`;
+        if (await checkImage(numberedImg)) {
+          images.push(numberedImg);
         }
       }
 
-      // We'll assume all images exist and rely on error handling
-      // This is simpler than checking each file's existence
-      this.availableImages = [
-        `/images/products/${this.product.id}_1.jpg`,
-        `/images/products/${this.product.id}_2.jpg`,
-        `/images/products/${this.product.id}_3.jpg`
-      ];
+      // Set available images or fallback
+      this.availableImages = images.length > 0 ? images : [this.fallbackImage];
     },
     handleImageError(event) {
       // Remove failed image from available images
