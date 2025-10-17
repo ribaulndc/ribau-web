@@ -12,6 +12,11 @@
       @close="closeContactForm"
     />
 
+    <ImageForeground
+      :image-url="imageToShowInModal"
+      @close="closeImageModal"
+    />
+
     <!-- Category Filter -->
     <div class="filters">
       <button 
@@ -33,6 +38,7 @@
         :key="product.id"
         :product="product"
         @contact="openContactForm"
+        @image-click="openImageModal"
       />
     </div>
 
@@ -45,12 +51,14 @@
 <script>
 import ProductCard from './ProductCard.vue';
 import ContactForm from './ContactForm.vue';
+import ImageForeground from './ImageForeground.vue';
 
 export default {
   name: 'ProductCatalog',
   components: {
     ProductCard,
-    ContactForm
+    ContactForm,
+    ImageForeground
   },
   data() {
     return {
@@ -59,7 +67,8 @@ export default {
       loading: true,
       error: null,
       showContactForm: false,
-      selectedProduct: null
+      selectedProduct: null,
+      imageToShowInModal: null
     };
   },
   computed: {
@@ -78,6 +87,12 @@ export default {
     this.loadProducts();
   },
   methods: {
+    openImageModal(imageUrl) {
+      this.imageToShowInModal = imageUrl;
+    },
+    closeImageModal() {
+      this.imageToShowInModal = null;
+    },
     parseCSV(text) {
       const lines = text.split('\n').filter(line => line.trim());
       if (lines.length === 0) return [];

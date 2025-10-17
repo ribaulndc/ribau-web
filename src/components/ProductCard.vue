@@ -8,6 +8,7 @@
           :alt="`${product.name} - Image ${currentImageIndex + 1}`"
           @error="handleImageError"
           class="product-image"
+          @click.stop="$emit('image-click', currentImage)"
         >
         
         <!-- Navigation Arrows (only show if multiple images) -->
@@ -65,6 +66,7 @@
 <script>
 export default {
   name: 'ProductCard',
+  emits: ['contact', 'image-click'],
   props: {
     product: {
       type: Object,
@@ -190,6 +192,7 @@ export default {
   height: 100%;
   object-fit: cover;
   display: block;
+  cursor: zoom-in;
 }
 
 .carousel-btn {
