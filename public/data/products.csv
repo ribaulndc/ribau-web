@@ -20,3 +20,67 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0022,Trasportino a spalla,Adatto a piccole taglie,Trasporti,10.00,TRUE,FALSE
 0024,Trasportino morbido,Adatto a piccole taglie,Trasporti,10.00,TRUE,FALSE
 0025,Trolley,Adatto a piccole taglie,Trasporti,20.00,TRUE,FALSE
+0026,Cuccia Morbida,,Cucce,15.00,TRUE,FALSE
+0027,Cuccia Morbida,,Cucce,15.00,TRUE,FALSE
+0028,Cuccia Rigida con cuscino,,Cucce,20.00,TRUE,FALSE
+0029,Cuccia rigida con cuscino,,Cucce,20.00,TRUE,FALSE
+0030,Cuscino ,Taglia medio-piccola,Cucce,10.00,TRUE,FALSE
+0032,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
+0033,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
+0034,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
+0035,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
+0036,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
+0037,Cappotto,"Taglia piccola, cappotto impermeabile",Cappotti e Maglioni,10.00,TRUE,FALSE
+0039,Cappotto,"Taglia piccola, cappotto in pile",Cappotti e Maglioni,10.00,TRUE,FALSE
+0040,Cappotto,"Taglia piccola, in Jeans",Cappotti e Maglioni,10.00,TRUE,FALSE
+0042,Cappotto,"Taglia piccola, in pile",Cappotti e Maglioni,10.00,TRUE,FALSE
+0043,Cappotto,"Taglia piccola, in pile",Cappotti e Maglioni,10.00,TRUE,FALSE
+0044,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0046,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0047,Cappotto,"Impermeabile in similpelle, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0048,Cappotto ,"Impermeabile, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0049,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0050,Cappotto,"Impermeabile, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0051,Cappotto,"Impermeabile, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0052,Cappotto,"Impermeabile, taglia piccola, con bustina per riporlo",Cappotti e Maglioni,10.00,TRUE,FALSE
+0053,Cappotto,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
+0054,Cappotto,"Taglia piccola, in Jeans",Cappotti e Maglioni,10.00,TRUE,FALSE
+0055,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0056,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0057,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0058,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0059,Cappotto,"Impermeabile, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0060,Cappotto,"Piumino, taglia piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0061,Cappotto,"Piumino, taglia grande",Cappotti e Maglioni,15.00,TRUE,FALSE
+0062,Cappotto,"Piumino, taglia piccola-media",Cappotti e Maglioni,10.00,TRUE,FALSE
+0063,Cappotto,"Piumino, taglia piccola-media",Cappotti e Maglioni,10.00,TRUE,FALSE
+0064,Cappotto,"Impermeabile, taglia medio-grande",Cappotti e Maglioni,15.00,TRUE,FALSE
+0065,Cappotto,"Cappotto imbottito, taglia medio-piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0066,Cappotto,"Impermeabile, interno in pile, taglia medio-grande",Cappotti e Maglioni,15.00,TRUE,FALSE
+0067,Cappotto,"Imbottito, taglia grande",Cappotti e Maglioni,50.00,TRUE,FALSE
+0070,Cappotto,"Cappotto imbottito, taglia medio-grande",Cappotti e Maglioni,15.00,TRUE,FALSE
+0071,Felpa,Taglia media,Cappotti e Maglioni,15.00,TRUE,FALSE
+0072,Felpa,Taglia media,Cappotti e Maglioni,15.00,TRUE,FALSE
+0073,Felpa,Taglia media,Cappotti e Maglioni,15.00,TRUE,FALSE
+0074,Cappotto,"Impermeabile, taglia medio-grande",Cappotti e Maglioni,15.00,TRUE,FALSE
+0076,Cappotto,"Impermeabile, imbottitura interna, taglia media",Cappotti e Maglioni,15.00,TRUE,FALSE
+0077,Cappotto,"Piumino, taglia grande",Cappotti e Maglioni,15.00,TRUE,FALSE
+0078,Cappotto,"Piumino, taglia medio-piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
+0079,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0080,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0083,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0084,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0085,Felpa ,"Taglia piccola, 8 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
+0086,Felpa,"Taglia piccola, 4 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
+0087,Felpa,"Taglia piccola, 5 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
+0089,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0090,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
+0091,Taglia unghie,,Cura e Pulizia,10.00,TRUE,FALSE
+0092,Taglia  unghie,,Cura e Pulizia,10.00,TRUE,FALSE
+0094,Ciotola portatile,"Ciotole doppie in silicone, pieghevoli",Ciotole,10.00,TRUE,FALSE
+0095,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0096,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
+0097,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0098,Pettorina,"Modello a H, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0100,Pettorina,"Modello a Y, taglia M-L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0101,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
