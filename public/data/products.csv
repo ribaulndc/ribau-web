@@ -75,8 +75,8 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0087,Felpa,"Taglia piccola, 5 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
 0089,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0090,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
-0091,Taglia unghie,,Cura e Pulizia,10.00,TRUE,FALSE
-0092,Taglia  unghie,,Cura e Pulizia,10.00,TRUE,FALSE
+0091,Taglia unghie,,Dispositivi Medici e igienici,10.00,TRUE,FALSE
+0092,Taglia  unghie,,Dispositivi Medici e igienici,10.00,TRUE,FALSE
 0094,Ciotola portatile,"Ciotole doppie in silicone, pieghevoli",Ciotole,10.00,TRUE,FALSE
 0095,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0096,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
@@ -135,7 +135,7 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0155,Set coperte piccole,,Cucce,10.00,TRUE,FALSE
 0156,Tappetino per appoggiare le ciotole,,Ciotole,5.00,TRUE,FALSE
 0157,Salvagente,Taglia S,Dispositivi di sicurezza,15.00,TRUE,FALSE
-0158,Pettorina,"Modello ad H, taglia XL","ettorine, Guinzagli e CollariP",10.00,TRUE,FALSE
+0158,Pettorina,"Modello ad H, taglia XL","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0159,Pettorina,"Modello ad H, taglia L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0162,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
 0164,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
