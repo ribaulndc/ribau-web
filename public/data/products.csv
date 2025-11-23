@@ -75,8 +75,8 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0087,Felpa,"Taglia piccola, 5 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
 0089,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0090,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
-0091,Taglia unghie,,Dispositivi Medici e igienici,10.00,TRUE,FALSE
-0092,Taglia  unghie,,Dispositivi Medici e igienici,10.00,TRUE,FALSE
+0091,Taglia unghie,,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0092,Taglia  unghie,,Dispositivi medici e igienici,10.00,TRUE,FALSE
 0094,Ciotola portatile,"Ciotole doppie in silicone, pieghevoli",Ciotole,10.00,TRUE,FALSE
 0095,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0096,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
@@ -110,7 +110,7 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0126,Collare in tessuto,Taglia piccola,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
 0127,Cintura di sicurezza,"4 pz, misure S,M,L,XL","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0128,Cintura di sicurezza,Taglia piccola,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0129,Rete portatile,,DIspositivi di sicurezza,10.00,TRUE,FALSE
+0129,Rete portatile,,Dispositivi di sicurezza,10.00,TRUE,FALSE
 0130,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
 0131,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
 0132,Spazzola ,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
