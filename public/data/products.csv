@@ -1,30 +1,4 @@
 id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
-0001,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
-0002,Ciotola cibo e acqua con rialzo,"Ciotole grandi in metallo, rialzo in plastica",Ciotole,15.00,TRUE,FALSE
-0003,Ciotola automatica,Ciotola con timer integrato,Ciotole,25.00,TRUE,FALSE
-0004,Ciotole cibo e acqua,Ciotole grandi coordinate in plastica ,Ciotole,10.00,TRUE,FALSE
-0005,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
-0006,Ciotola automatica,Ciotola con timer integrato,Ciotole,20.00,TRUE,FALSE
-0007,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
-0008,Ciotola cibo e acqua,Ciotola doppia in plastica,Ciotole,10.00,TRUE,FALSE
-0009,Ciotole piccole,"Disponibili 4 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
-0010,Ciotole grandi,"Disponibili 2 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
-0011,Ciotole medie con portaciotole,Ciotole e supporto in metallo,Ciotole,7.00,TRUE,FALSE
-0012,Rialzo ciotole cibo e acqua,Ciotole con rialzo in metallo,Ciotole,15.00,TRUE,FALSE
-0013,Ciotola automatica,Ciotola con timer integrato,Ciotole,15.00,TRUE,FALSE
-0014,Ciotola da viaggio,"Ciotola pieghevole, con materiale leggero e impermeabile",Ciotole,4.00,TRUE,FALSE
-0015,Borraccia da viaggio,,Ciotole,5.00,TRUE,FALSE
-0016,Gioco ""Catch"","Gioco in plastica, disponibili 3 pezzi in tre diverse colorazioni",Giochi,5.00,TRUE,FALSE
-0019,Gioco lancia pallina,,Giochi,5.00,TRUE,FALSE
-0020,Trasportino rigido,Adatto a piccole taglie,Trasporti,15.00,TRUE,FALSE
-0022,Trasportino a spalla,Adatto a piccole taglie,Trasporti,10.00,TRUE,FALSE
-0024,Trasportino morbido,Adatto a piccole taglie,Trasporti,10.00,TRUE,FALSE
-0025,Trolley,Adatto a piccole taglie,Trasporti,20.00,TRUE,FALSE
-0026,Cuccia Morbida,,Cucce,15.00,TRUE,FALSE
-0027,Cuccia Morbida,,Cucce,15.00,TRUE,FALSE
-0028,Cuccia Rigida con cuscino,,Cucce,20.00,TRUE,FALSE
-0029,Cuccia rigida con cuscino,,Cucce,20.00,TRUE,FALSE
-0030,Cuscino ,Taglia medio-piccola,Cucce,10.00,TRUE,FALSE
 0032,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
 0033,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
 0034,Maglione ,Taglia piccola,Cappotti e Maglioni,10.00,TRUE,FALSE
@@ -66,24 +40,48 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0076,Cappotto,"Impermeabile, imbottitura interna, taglia media",Cappotti e Maglioni,15.00,TRUE,FALSE
 0077,Cappotto,"Piumino, taglia grande",Cappotti e Maglioni,15.00,TRUE,FALSE
 0078,Cappotto,"Piumino, taglia medio-piccola",Cappotti e Maglioni,10.00,TRUE,FALSE
-0079,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0080,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0083,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0084,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0085,Felpa ,"Taglia piccola, 8 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
 0086,Felpa,"Taglia piccola, 4 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
 0087,Felpa,"Taglia piccola, 5 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
-0089,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0090,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
+0001,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
+0002,Ciotola cibo e acqua con rialzo,"Ciotole grandi in metallo, rialzo in plastica",Ciotole,15.00,TRUE,FALSE
+0003,Ciotola automatica,Ciotola con timer integrato,Ciotole,25.00,TRUE,FALSE
+0004,Ciotole cibo e acqua,Ciotole grandi coordinate in plastica ,Ciotole,10.00,TRUE,FALSE
+0005,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
+0006,Ciotola automatica,Ciotola con timer integrato,Ciotole,20.00,TRUE,FALSE
+0007,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
+0008,Ciotola cibo e acqua,Ciotola doppia in plastica,Ciotole,10.00,TRUE,FALSE
+0009,Ciotole piccole,"Disponibili 4 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
+0010,Ciotole grandi,"Disponibili 2 pezzi, in metallo",Ciotole,5.00,TRUE,FALSE
+0011,Ciotole medie con portaciotole,Ciotole e supporto in metallo,Ciotole,7.00,TRUE,FALSE
+0012,Rialzo ciotole cibo e acqua,Ciotole con rialzo in metallo,Ciotole,15.00,TRUE,FALSE
+0013,Ciotola automatica,Ciotola con timer integrato,Ciotole,15.00,TRUE,FALSE
+0014,Ciotola da viaggio,"Ciotola pieghevole, con materiale leggero e impermeabile",Ciotole,4.00,TRUE,FALSE
+0015,Borraccia da viaggio,,Ciotole,5.00,TRUE,FALSE
+0094,Ciotola portatile,"Ciotole doppie in silicone, pieghevoli",Ciotole,10.00,TRUE,FALSE
+0113,Misurino elettronico,,Ciotole,10.00,TRUE,FALSE
+0139,Ciotola con distributore,,Ciotole,10.00,TRUE,FALSE
+0140,Ciotola doppia ,In plastica,Ciotole,10.00,TRUE,FALSE
+0143,Ciotola doppia anti-ingozzamento,,Ciotole,10.00,TRUE,FALSE
+0144,Ciotole piccole in metallo,,Ciotole,5.00,TRUE,FALSE
+0146,Ciotola anti-ingozzamento,,Ciotole,5.00,TRUE,FALSE
+0147,Ciotole portatili,,Ciotole,5.00,TRUE,FALSE
+0150,Ciotola pieghevole portatile,,Ciotole,5.00,TRUE,FALSE
+0149,Borraccia da viaggio,,Ciotole,5.00,TRUE,FALSE
+0151,Ciotola doppia in ceramica,,Ciotole,10.00,TRUE,FALSE
+0153,Supporto per ciotole grandi,,Ciotole,10.00,TRUE,FALSE
+0156,Tappetino per appoggiare le ciotole,,Ciotole,5.00,TRUE,FALSE
+0026,Cuccia Morbida,,Cucce,15.00,TRUE,FALSE
+0027,Cuccia Morbida,,Cucce,15.00,TRUE,FALSE
+0028,Cuccia Rigida con cuscino,,Cucce,20.00,TRUE,FALSE
+0029,Cuccia rigida con cuscino,,Cucce,20.00,TRUE,FALSE
+0030,Cuscino ,Taglia medio-piccola,Cucce,10.00,TRUE,FALSE
+0152,Cuccia piccola imbottita,,Cucce,15.00,TRUE,FALSE
+0154,Set coperte piccole,,Cucce,10.00,TRUE,FALSE
+0155,Set coperte piccole,,Cucce,10.00,TRUE,FALSE
+0166,Cuccia rigida ,Misura piccola,Cucce,10.00,TRUE,FALSE
 0091,Taglia unghie,,Dispositivi medici e igienici,10.00,TRUE,FALSE
 0092,Taglia  unghie,,Dispositivi medici e igienici,10.00,TRUE,FALSE
-0094,Ciotola portatile,"Ciotole doppie in silicone, pieghevoli",Ciotole,10.00,TRUE,FALSE
-0095,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0096,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
-0097,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0098,Pettorina,"Modello a H, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0100,Pettorina,"Modello a Y, taglia M-L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0101,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
 0102,Scarpe protettive,Taglia grande,Dispositivi medici e igienici,15.00,TRUE,FALSE
 0103,Pinze per rimozione zecche,"Cinque pezzi, in nero, arancione, rosa e azzurro",Dispositivi medici e igienici,5.00,TRUE,FALSE
 0104,Spazzola piccola,In plastica,Dispositivi medici e igienici,5.00,TRUE,FALSE
@@ -91,11 +89,33 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0106,Pannolino lavabile per cane maschio,Taglia piccola,Dispositivi medici e igienici,5.00,TRUE,FALSE
 0107,Salviette detergenti,,Dispositivi medici e igienici,5.00,TRUE,FALSE
 0108,Pannolini usa e getta,"8 pezzi, 6-16 Kg, 28-50 cm",Dispositivi medici e igienici,5.00,TRUE,FALSE
+0130,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0131,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0132,Spazzola ,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0133,Spazzola,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0134,Spazzola,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0135,Pettine in plastica,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0136,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0137,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0138,Pettine per strippatura,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0016,Gioco ""Catch"","Gioco in plastica, disponibili 3 pezzi in tre diverse colorazioni",Giochi,5.00,TRUE,FALSE
+0019,Gioco lancia pallina,,Giochi,5.00,TRUE,FALSE
 0110,Ciambella,"Piccola, in plastica",Giochi,5.00,TRUE,FALSE
 0111,Gioco,"Piccolo, in plastica",Giochi,5.00,TRUE,FALSE
 0112,Palline assortite,,Giochi,5.00,TRUE,FALSE
-0113,Misurino elettronico,,Ciotole,10.00,TRUE,FALSE
 0114,Corde piccole,,Giochi,5.00,TRUE,FALSE
+0079,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0080,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0083,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0084,Pettorina,"Modello a Y, taglia S-M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0089,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0090,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
+0095,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0096,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
+0097,Pettorina,"Modello a Y, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0098,Pettorina,"Modello a H, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0100,Pettorina,"Modello a Y, taglia M-L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0101,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
 0115,Collare e guinzaglio abbinato,"Taglia piccola, disponibile in due colori (blu e rosso)","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0116,Collare in pelle,Taglia grande,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
 0117,Collare in pelle,Taglia media,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
@@ -110,35 +130,15 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0126,Collare in tessuto,Taglia piccola,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
 0127,Cintura di sicurezza,"4 pz, misure S,M,L,XL","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0128,Cintura di sicurezza,Taglia piccola,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
-0129,Rete portatile,,Dispositivi di sicurezza,10.00,TRUE,FALSE
-0130,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
-0131,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
-0132,Spazzola ,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
-0133,Spazzola,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
-0134,Spazzola,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
-0135,Pettine in plastica,,Dispositivi medici e igienici,5.00,TRUE,FALSE
-0136,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
-0137,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
-0138,Pettine per strippatura,,Dispositivi medici e igienici,5.00,TRUE,FALSE
-0139,Ciotola con distributore,,Ciotole,10.00,TRUE,FALSE
-0140,Ciotola doppia ,In plastica,Ciotole,10.00,TRUE,FALSE
-0143,Ciotola doppia anti-ingozzamento,,Ciotole,10.00,TRUE,FALSE
-0144,Ciotole piccole in metallo,,Ciotole,5.00,TRUE,FALSE
-0146,Ciotola anti-ingozzamento,,Ciotole,5.00,TRUE,FALSE
-0147,Ciotole portatili,,Ciotole,5.00,TRUE,FALSE
-0150,Ciotola pieghevole portatile,,Ciotole,5.00,TRUE,FALSE
-0149,Borraccia da viaggio,,Ciotole,5.00,TRUE,FALSE
-0151,Ciotola doppia in ceramica,,Ciotole,10.00,TRUE,FALSE
-0152,Cuccia piccola imbottita,,Cucce,15.00,TRUE,FALSE
-0153,Supporto per ciotole grandi,,Ciotole,10.00,TRUE,FALSE
-0154,Set coperte piccole,,Cucce,10.00,TRUE,FALSE
-0155,Set coperte piccole,,Cucce,10.00,TRUE,FALSE
-0156,Tappetino per appoggiare le ciotole,,Ciotole,5.00,TRUE,FALSE
-0157,Salvagente,Taglia S,Dispositivi di sicurezza,15.00,TRUE,FALSE
 0158,Pettorina,"Modello ad H, taglia XL","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0159,Pettorina,"Modello ad H, taglia L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0162,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
 0164,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
-0165,Trasportino,Misura grande,Dispositivi di sicurezza,20.00,TRUE,FALSE
-0166,Cuccia rigida ,Misura piccola,Cucce,10.00,TRUE,FALSE
-0167,Trasportino,Misura media,Dispositivi di sicurezza,20.00,TRUE,FALSE
+0020,Trasportino rigido,Adatto a piccole taglie,Trasporti e Sicurezza,15.00,TRUE,FALSE
+0022,Trasportino a spalla,Adatto a piccole taglie,Trasporti e Sicurezza,10.00,TRUE,FALSE
+0024,Trasportino morbido,Adatto a piccole taglie,Trasporti e Sicurezza,10.00,TRUE,FALSE
+0025,Trolley,Adatto a piccole taglie,Trasporti e Sicurezza,20.00,TRUE,FALSE
+0129,Rete portatile,,Trasporti e Sicurezza,10.00,TRUE,FALSE
+0157,Salvagente,Taglia S,Trasporti e Sicurezza,15.00,TRUE,FALSE
+0165,Trasportino,Misura grande,Trasporti e Sicurezza,20.00,TRUE,FALSE
+0167,Trasportino,Misura media,Trasporti e Sicurezza,20.00,TRUE,FALSE
