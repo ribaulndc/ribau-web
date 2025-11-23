@@ -84,3 +84,61 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0098,Pettorina,"Modello a H, taglia M","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0100,Pettorina,"Modello a Y, taglia M-L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0101,Pettorina,"Modello ad H, taglia grande","Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
+0102,Scarpe protettive,Taglia grande,Dispositivi medici e igienici,15.00,TRUE,FALSE
+0103,Pinze per rimozione zecche,"Cinque pezzi, in nero, arancione, rosa e azzurro",Dispositivi medici e igienici,5.00,TRUE,FALSE
+0104,Spazzola piccola,In plastica,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0105,Tutore del carpo,,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0106,Pannolino lavabile per cane maschio,Taglia piccola,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0107,Salviette detergenti,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0108,Pannolini usa e getta,"8 pezzi, 6-16 Kg, 28-50 cm",Dispositivi medici e igienici,5.00,TRUE,FALSE
+0110,Ciambella,"Piccola, in plastica",Giochi,5.00,TRUE,FALSE
+0111,Gioco,"Piccolo, in plastica",Giochi,5.00,TRUE,FALSE
+0112,Palline assortite,,Giochi,5.00,TRUE,FALSE
+0113,Misurino elettronico,,Ciotole,10.00,TRUE,FALSE
+0114,Corde piccole,,Giochi,5.00,TRUE,FALSE
+0115,Collare e guinzaglio abbinato,"Taglia piccola, disponibile in due colori (blu e rosso)","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0116,Collare in pelle,Taglia grande,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0117,Collare in pelle,Taglia media,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0118,Collare in tessuto,Taglia media,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0119,Collare in tessuto,Taglia media,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0121,Collare in tessuto,Taglia grande,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0120,Collare in tessuto,Taglia media,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0122,Porta sacchetti,,"Pettorine, Guinzagli e Collari",2.50,TRUE,FALSE
+0123,Collare in tessuto,Taglia piccola,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0124,Collare in pelle con medaglietta,Taglia medio-piccola,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0125,Collare in tessuto,Taglia piccola,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0126,Collare in tessuto,Taglia piccola,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0127,Cintura di sicurezza,"4 pz, misure S,M,L,XL","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0128,Cintura di sicurezza,Taglia piccola,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0129,Rete portatile,,DIspositivi di sicurezza,10.00,TRUE,FALSE
+0130,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0131,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0132,Spazzola ,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0133,Spazzola,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0134,Spazzola,Setole in metallo e plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0135,Pettine in plastica,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0136,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0137,Pettine in metallo,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0138,Pettine per strippatura,,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0139,Ciotola con distributore,,Ciotole,10.00,TRUE,FALSE
+0140,Ciotola doppia ,In plastica,Ciotole,10.00,TRUE,FALSE
+0143,Ciotola doppia anti-ingozzamento,,Ciotole,10.00,TRUE,FALSE
+0144,Ciotole piccole in metallo,,Ciotole,5.00,TRUE,FALSE
+0146,Ciotola anti-ingozzamento,,Ciotole,5.00,TRUE,FALSE
+0147,Ciotole portatili,,Ciotole,5.00,TRUE,FALSE
+0150,Ciotola pieghevole portatile,,Ciotole,5.00,TRUE,FALSE
+0149,Borraccia da viaggio,,Ciotole,5.00,TRUE,FALSE
+0151,Ciotola doppia in ceramica,,Ciotole,10.00,TRUE,FALSE
+0152,Cuccia piccola imbottita,,Cucce,15.00,TRUE,FALSE
+0153,Supporto per ciotole grandi,,Ciotole,10.00,TRUE,FALSE
+0154,Set coperte piccole,,Cucce,10.00,TRUE,FALSE
+0155,Set coperte piccole,,Cucce,10.00,TRUE,FALSE
+0156,Tappetino per appoggiare le ciotole,,Ciotole,5.00,TRUE,FALSE
+0157,Salvagente,Taglia S,Dispositivi di sicurezza,15.00,TRUE,FALSE
+0158,Pettorina,"Modello ad H, taglia XL","ettorine, Guinzagli e CollariP",10.00,TRUE,FALSE
+0159,Pettorina,"Modello ad H, taglia L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0162,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0164,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0165,Trasportino,Misura grande,Dispositivi di sicurezza,20.00,TRUE,FALSE
+0166,Cuccia rigida ,Misura piccola,Cucce,10.00,TRUE,FALSE
+0167,Trasportino,Misura media,Dispositivi di sicurezza,20.00,TRUE,FALSE
