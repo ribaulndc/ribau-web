@@ -14,7 +14,7 @@ I've created a comprehensive system for your RiBau dog shelter catalog with the 
 
 - SETUP_GUIDE.md - Complete step-by-step setup instructions (Google Cloud, GitHub, etc.)
 - IMAGE_NAMING_GUIDE.md - Detailed guide for managing product images
-- GOOGLE_SHEETS_TEMPLATE.md - Google Sheets structure, examples, and volunteer guide
+- SHEETS_TEMPLATE.md - Google Sheets structure, examples, and volunteer guide
 - README.md - Implementation summary and overview
 - WORKFLOW_DIAGRAM.md - Visual workflow diagrams and quick reference
 

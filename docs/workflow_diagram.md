@@ -219,7 +219,3 @@ STEP 7: LIVE ON WEBSITE! 🎉
 │ ○ Update website code/styling                          │
 │ ○ Configure Netlify settings                           │
 └─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│                   AUTOMATED SYSTEM                      │
-├─────────────────────────────────

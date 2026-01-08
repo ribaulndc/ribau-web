@@ -273,14 +273,14 @@ Simple instructions for non-technical team members.
    - Add 1 to that ID
    - Example: If last is 025, use 026
 
-2. **Send images to [YOUR NAME]:**
+2. **Send images to Matteo Bordignon:**
    - WhatsApp/Email: "Hi! Here are images for the new [product name]"
    - Attach 1-3 photos
    - Wait for confirmation
 
 3. **Add product to Google Sheet:**
    - Fill in all columns:
-     - **id**: The ID [YOUR NAME] confirmed (e.g., 026)
+     - **id**: The ID Matteo confirmed (e.g., 026)
      - **name**: Product name
      - **description**: Short description (1-2 sentences)
      - **category**: Choose existing or create new
