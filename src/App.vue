@@ -10,6 +10,7 @@
 <script>
 import ProductCatalog from './components/ProductCatalog.vue'
 import PrivacyPolicy from './components/PrivacyPolicy.vue'
+import ContactPrivacyPolicy from './components/ContactPrivacyPolicy.vue'
 import MainFooter from './components/MainFooter.vue'
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 
@@ -18,6 +19,7 @@ export default {
   components: {
     ProductCatalog,
     PrivacyPolicy,
+    ContactPrivacyPolicy,
     MainFooter
   },
   setup() {
@@ -32,6 +34,9 @@ export default {
     const currentView = computed(() => {
       if (currentPath.value === '#/privacy') {
         return PrivacyPolicy
+      }
+      if (currentPath.value === '#/contact-privacy') {
+        return ContactPrivacyPolicy
       }
       return ProductCatalog
     })

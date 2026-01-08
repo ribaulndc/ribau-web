@@ -44,6 +44,10 @@
             <img src="/images/icons/privacy.svg" class="icon" alt="Privacy" />
             <a href="#/privacy" class="privacy-link">Informativa Privacy</a>
           </p>
+          <p class="privacy-link-container">
+            <img src="/images/icons/contact-privacy.svg" class="icon" alt="Contact Privacy" />
+            <a href="#/contact-privacy" class="privacy-link">Informativa Contatti</a>
+          </p>
         </div>
       </div>
     </div>

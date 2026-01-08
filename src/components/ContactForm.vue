@@ -56,11 +56,22 @@
           ></textarea>
         </div>
 
+        <div class="form-group checkbox-group">
+          <input 
+            type="checkbox" 
+            id="privacy-check" 
+            v-model="privacyAccepted"
+          >
+          <label for="privacy-check" class="checkbox-label">
+            Confermo di aver preso visione dell'<a href="#/contact-privacy" target="_blank" class="privacy-link">informativa sul trattamento dei dati personali</a>
+          </label>
+        </div>
+
         <div class="form-actions">
           <button type="button" @click="closeModal" class="btn-cancel">
             Annulla
           </button>
-          <button type="submit" class="btn-submit" :disabled="submitting">
+          <button type="submit" class="btn-submit" :disabled="submitting || !privacyAccepted">
             {{ submitting ? 'Invio...' : 'Invia Richiesta' }}
           </button>
         </div>
@@ -99,6 +110,7 @@ export default {
         phone: '',
         message: ''
       },
+      privacyAccepted: false,
       submitting: false,
       submitSuccess: false,
       submitError: null
@@ -129,6 +141,7 @@ export default {
       this.submitSuccess = false;
       this.submitError = null;
       this.submitting = false;
+      this.privacyAccepted = false;
       // Keep product info, reset user fields
       this.formData.name = '';
       this.formData.email = '';
@@ -259,6 +272,36 @@ export default {
   color: #2c3e50;
   font-weight: 600;
   font-size: 0.95rem;
+}
+
+.checkbox-group {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.checkbox-group input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.checkbox-label {
+  font-weight: normal !important;
+  font-size: 0.9rem !important;
+  line-height: 1.4;
+  margin-bottom: 0 !important;
+}
+
+.privacy-link {
+  color: #3498db;
+  text-decoration: underline;
+}
+
+.privacy-link:hover {
+  text-decoration: none;
 }
 
 .form-group input,
