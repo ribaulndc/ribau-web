@@ -1,4 +1,4 @@
-id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
+id,nome,descrizione,categoria,prezzo,disponibile,primoPiano,Column 1
 0001,Ciotola anti-ingozzamento,Ciotola in plastica,Ciotole,10.00,TRUE,FALSE
 0003,Ciotola automatica,Ciotola con timer integrato,Ciotole,25.00,TRUE,FALSE
 0004,Ciotole cibo e acqua,Ciotole grandi coordinate in plastica ,Ciotole,10.00,TRUE,FALSE
@@ -14,7 +14,6 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0015,Borraccia da viaggio,,Ciotole,5.00,TRUE,FALSE
 0016,Gioco ""Catch"","Gioco in plastica, disponibili 3 pezzi in tre diverse colorazioni",Giochi,5.00,TRUE,FALSE
 0019,Gioco lancia pallina,,Giochi,5.00,TRUE,FALSE
-0020,Trasportino rigido,Adatto a piccole taglie 53x33x19 cm,Trasporti e Sicurezza,15.00,TRUE,FALSE
 0022,Trasportino a spalla,Adatto a piccole taglie 32x39x17 cm,Trasporti e Sicurezza,10.00,TRUE,FALSE
 0024,Trasportino morbido,Adatto a piccole taglie,Trasporti e Sicurezza,10.00,TRUE,FALSE
 0028,Cuccia Rigida con cuscino,56x42 cm,Cucce,20.00,TRUE,FALSE
@@ -80,7 +79,7 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0102,Scarpe protettive,Taglia grande,Dispositivi medici e igienici,15.00,TRUE,FALSE
 0103,Pinze per rimozione zecche,"Cinque pezzi, in nero, arancione, rosa e azzurro",Dispositivi medici e igienici,5.00,TRUE,FALSE
 0104,Spazzola piccola,In plastica,Dispositivi medici e igienici,5.00,TRUE,FALSE
-0105,Tutore del carpo,,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0105,Tutore del carpo,,Dispositivi medici e igienici,25.00,TRUE,FALSE
 0106,Pannolino lavabile per cane maschio,Taglia piccola,Dispositivi medici e igienici,5.00,TRUE,FALSE
 0107,Salviette detergenti,,Dispositivi medici e igienici,5.00,TRUE,FALSE
 0108,Pannolini usa e getta,"8 pezzi, 6-16 Kg, 28-50 cm",Dispositivi medici e igienici,5.00,TRUE,FALSE
@@ -132,9 +131,9 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0159,Pettorina,"Modello ad H, taglia L","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
 0162,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
 0164,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
-0165,Trasportino,Misura grande,Trasporti e Sicurezza,20.00,TRUE,FALSE
+0165,Trasportino,Misura grande,Trasporti e Sicurezza,90.00,TRUE,FALSE
 0166,Cuccia rigida ,Misura piccola,Cucce,10.00,TRUE,FALSE
-0167,Trasportino,Misura media,Trasporti e Sicurezza,20.00,TRUE,FALSE
+0167,Trasportino,Misura media,Trasporti e Sicurezza,50.00,TRUE,FALSE
 0168,Cuccia morbida,40X40X40 cm ,Cucce,15.00,TRUE,FALSE
 0169,Tappeto con gioco interattivo,63x47 cm,Giochi,10.00,TRUE,FALSE
 0170 ,Coperta,100x70 cm,Cucce,5.00,TRUE,FALSE
@@ -155,8 +154,30 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano
 0186 ,Maglione ,18 cm ,Cappotti e Maglioni,10.00,TRUE,FALSE
 0187,Giacca ,18 cm ,Cappotti e Maglioni,10.00,TRUE,FALSE
 0188,Cuccia morbida,70x50 cm,Cucce,15.00,TRUE,FALSE
-0189,Passeggino,"Lunghezza 56 cm, larghezza 27 cm, profondità 23 cm, altezza dalla ruota 95 cm",Trasporti e Sicurezza,25.00,TRUE,FALSE
-0190,Carrellino/zaino,"Lunghezza 44 cm, altezza 43 cm, profondità 28 cm",Trasporti e Sicurezza,20.00,TRUE,FALSE
-0191,Passeggino,"Altezza dalla ruota 97 cm, altezza 55 cm, lunghezza 41 cm, larghezza 27 cm",Trasporti e Sicurezza,20.00,TRUE,FALSE
+0189,Passeggino,"Lunghezza 56 cm, larghezza 27 cm, profondità 23 cm, altezza dalla ruota 95 cm",Trasporti e Sicurezza,50.00,TRUE,FALSE
+0190,Carrellino/zaino,"Lunghezza 44 cm, altezza 43 cm, profondità 28 cm",Trasporti e Sicurezza,35.00,TRUE,FALSE
+0191,Passeggino,"Altezza dalla ruota 97 cm, altezza 55 cm, lunghezza 41 cm, larghezza 27 cm",Trasporti e Sicurezza,50.00,TRUE,FALSE
 0192,Maglione ,"lunghezza 51 cm, molto elastico, più articoli disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
 0193,Cappotto,Lunghezza 52 cm,Cappotti e Maglioni,10.00,TRUE,FALSE
+0194,Maglione ,"Lunghezza 32 cm, larghezza 18,5 cm, 2 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
+0195,Maglione ,"Lunghezza 25 cm, larghezza 16 cm, 2 pezzi disponibili",Cappotti e Maglioni,10.00,TRUE,FALSE
+0197,Maglione ,"Lunghezza 20 cm, larghezza 14 cm",Cappotti e Maglioni,10.00,TRUE,FALSE
+0198,Cappotto,"Lunghezza 42 cm, larghezza 24 cm",Cappotti e Maglioni,10.00,TRUE,FALSE
+0200,Collare,Lunghezza da 18 cm a 2 cm,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0201,Collare,Lunghezza da 34 cm a 50 cm ,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0202,Collare,Lunghezza da 31 cm a 50 cm,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0203,Guinzaglio in tessuto,Lunghezza 180 cm,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0204,Guinzaglio in tessuto,Lunghezza 140 cm,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0206,Guinzaglio in tessuto,Lunghezza 141 cm ,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0207,Porta sacchetti,,"Pettorine, Guinzagli e Collari",2.50,TRUE,FALSE
+0208,Collare,Lunghezza da 30 cm a 50 cm,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0209,Pettorina ,"Taglia L, 2 pezzi disponibili","Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0210,Pettorina,Lunghezza da 80 cm a 100 cm,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0211,Pettorina,Taglia L ,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0212,Cappotto,"Lunghezza 33 cm, Larghezza 17 cm",Cappotti e Maglioni,10.00,TRUE,FALSE
+0213,Collare elisabettiano,Circonferenza 60 cm,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0214,Trasporto per bici,,Trasporti e Sicurezza,100.00,TRUE,FALSE
+0215,Cappotto,Lunghezza 65 cm,Cappotti e Maglioni,10.00,TRUE,FALSE
+0216,Cappotto,Lunghezza 75 cm,Cappotti e Maglioni,10.00,TRUE,FALSE
+0217,Cappotto,Lunghezza 55 cm,Cappotti e Maglioni,10.00,TRUE,FALSE
+0218,Cappotto ,Lunghezza 45 cm,Cappotti e Maglioni,10.00 ,TRUE,FALSE
