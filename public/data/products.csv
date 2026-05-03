@@ -238,11 +238,11 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano,Column 1
 0278,Cuscino piccolo,,Cucce,15.00,TRUE,FALSE
 0279,Bilancino elettronico,,Ciotole,15.00,TRUE,FALSE
 0280,Slip in cotone,taglia piccola,Dispositivi medici e igienici,15.00,TRUE,FALSE
-0283,Phon e accessori per toelettatura,,dispositivi medici e igienici,50.00,TRUE,FALSE
+0283,Phon e accessori per toelettatura,,Dispositivi medici e igienici,50.00,TRUE,FALSE
 0284,Ciotola doppia piccola,,Ciotole,15.00,TRUE,FALSE
 0285,Ciotola media anti ingozzamento,,Ciotole,10.00,TRUE,FALSE
 0286,Ciotola media anti ingozzamento,,Ciotole,10.00,TRUE,FALSE
-0287,Spazzola a guanto,,dispositivi medici e igienici,15.00,TRUE,FALSE
+0287,Spazzola a guanto,,Dispositivi medici e igienici,15.00,TRUE,FALSE
 0288,Cuscino medio-piccolo,,Cucce,15.00,TRUE,FALSE
 0289,Cuscino medio-piccolo,,Cucce,15.00,TRUE,FALSE
 0290,Cuscino piccolo,,Cucce,15.00,TRUE,FALSE
