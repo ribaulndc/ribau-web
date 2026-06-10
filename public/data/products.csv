@@ -246,3 +246,80 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano,Column 1
 0288,Cuscino medio-piccolo,,Cucce,15.00,TRUE,FALSE
 0289,Cuscino medio-piccolo,,Cucce,15.00,TRUE,FALSE
 0290,Cuscino piccolo,,Cucce,15.00,TRUE,FALSE
+0291,Cuccia media imbottita,,Cucce,15.00,TRUE,FALSE
+0292,Cuccia media imbottita,,Cucce,15.00,TRUE,FALSE
+0293,Cuccia piccola morbida,,Cucce,15.00,TRUE,FALSE
+0294,Cuccia media morbida,,Cucce,15.00,TRUE,FALSE
+0295,Cuccia media morbida,,Cucce,15.00,TRUE,FALSE
+0296,Ciotole medie con portaciotole,,Ciotole,10.00,TRUE,FALSE
+0297,Ciotole piccole cibo e acqua,per gatti,Ciotole,10.00,TRUE,FALSE
+0298,Ciotola piccola in ceramica,,Ciotole,7.00,TRUE,FALSE
+0299,Ciotole piccole in metallo decorate,,Ciotole,10.00,TRUE,FALSE
+0300,Pettorina,Taglia L,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0301,Collare,Taglia L,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0302,Pettorina,Taglia XL,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0303,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0304,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0305,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0306,Collare,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0307,Collare elisabettiano,Taglia XL,dispositivi medici e igienici,10.00,TRUE,FALSE
+0308,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0309,Pettorna,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0310,Spazzola,setole in metallo o plastica,dispositivi medici e igienici,10.00,TRUE,FALSE
+0311,Pettorina con guinzaglio,Taglia piccola,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0312,Spazzola,setole morbide,dispositivi medici e igienici,5.00,TRUE,FALSE
+0313,Pettorina con guinzaglio,Taglia piccola,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0314,Scarpe protettive,Taglia XS,dispositivi medici e igienici,15.00,TRUE,FALSE
+0315,Pettorina ,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0316,Palline ,,Giochi,5.00,TRUE,FALSE
+0317,Felpa,,Cappotti e Maglioni,15.00,TRUE,FALSE
+0318,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0319,Felpa,,Cappotti e Maglioni,15.00,TRUE,FALSE
+0320,Felpa,,Cappotti e Maglioni,15.00,TRUE,FALSE
+0321,Cappotto,,Cappotti e Maglioni,15.00,TRUE,FALSE
+0322,Giacca ,,Cappotti e Maglioni,15.00,TRUE,FALSE
+0323,Impermeabile,,Cappotti e Maglioni,15.00,TRUE,FALSE
+0324,Cappotto,Taglia 40,Cappotti e Maglioni,15.00,TRUE,FALSE
+0325,Pupazzo,,Giochi,5.00,TRUE,FALSE
+0327,Ciotola pieghevole portatile,,Ciotole,5.00,TRUE,FALSE
+0328,Palline,,Giochi,5.00,TRUE,FALSE
+0329,Guinzaglio in tessuto,,"Pettorine, Guinzagli e Collari",5.00,TRUE,FALSE
+0330,Spazzola ,pelo corto,dispositivi medici e igienici,5.00,TRUE,FALSE
+0331,Impermeabile,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0332,Spazzola,pelo corto,dispositivi medici e igienici,5.00,TRUE,FALSE
+0333,Cintura di sicurezza con pettorina,,"Pettorine, Guinzagli e Collari",15.00,TRUE,FALSE
+0334,Cappotto,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0335,Impermeabile con cappotto,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0336,Cappotto,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0337,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0338,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0339,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0340,Cintura di sicurezza,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0341,Collare con guinzaglio,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0342,Cappotto,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0343,Maglione ,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0344,Pettorina,Taglia M,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0345,Maglione ,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0346,Felpa,35 cm ,Cappotti e Maglioni,10.00,TRUE,FALSE
+0347,Pettorina ,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0349,Spazzola,pelo corto,dispositivi medici e igienici,5.00,TRUE,FALSE
+0350,Impermeabile,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0351,Giacca ,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0352,Cappotto,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0353,Cuscino,,Cucce,10.00,TRUE,FALSE
+0354,Cappotto,Taglia 40 cm,Cappotti e Maglioni,10.00,TRUE,FALSE
+0355,Cuscino,,Cucce,10.00,TRUE,FALSE
+0356,Cuscino,,Cucce,10.00,TRUE,FALSE
+0357,Coperta,,Cucce,5.00,TRUE,FALSE
+0358,Coperta,,Cucce,5.00,TRUE,FALSE
+0359,Impermeabile,Lunghezza 85 cm,Cappotti e Maglioni,10.00,TRUE,FALSE
+0360,Cappotto,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0361,Felpa,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0362,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0363,Ciotola da viaggio ,,Ciotole,4.00,TRUE,FALSE
+0364,tappetino refrigerante,,Cucce,5.00,TRUE,FALSE
+0365,Pettorina,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0366,Maglione ,,Cappotti e Maglioni,10.00,TRUE,FALSE
+0367,Collare con guinzaglio,,"Pettorine, Guinzagli e Collari",10.00,TRUE,FALSE
+0368,Trasportino ,,Trasporti e Sicurezza,15.00,TRUE,FALSE
+0369,Trasportino Morbido,,Trasporti e Sicurezza,25.00,TRUE,FALSE
