@@ -25,6 +25,7 @@ Open a new terminal or reload bashrc and run
 ```sh
 nvm install 20
 ```
+Should be updated
 
 ## Customize configuration
 
