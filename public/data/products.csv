@@ -194,13 +194,13 @@ id,nome,descrizione,categoria,prezzo,disponibile,primoPiano,Column 1
 0213,Collare elisabettiano,Circonferenza 60 cm,Dispositivi medici e igienici,10.00,TRUE,FALSE
 0229,Taglia unghie,,Dispositivi medici e igienici,10.00,TRUE,FALSE
 0280,Slip in cotone,taglia piccola,Dispositivi medici e igienici,15.00,TRUE,FALSE
-0307,Collare elisabettiano,Taglia XL,dispositivi medici e igienici,10.00,TRUE,FALSE
-0310,Spazzola,setole in metallo o plastica,dispositivi medici e igienici,10.00,TRUE,FALSE
-0312,Spazzola,setole morbide,dispositivi medici e igienici,5.00,TRUE,FALSE
-0314,Scarpe protettive,Taglia XS,dispositivi medici e igienici,15.00,TRUE,FALSE
-0330,Spazzola ,pelo corto,dispositivi medici e igienici,5.00,TRUE,FALSE
-0332,Spazzola,pelo corto,dispositivi medici e igienici,5.00,TRUE,FALSE
-0349,Spazzola,pelo corto,dispositivi medici e igienici,5.00,TRUE,FALSE
+0307,Collare elisabettiano,Taglia XL,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0310,Spazzola,setole in metallo o plastica,Dispositivi medici e igienici,10.00,TRUE,FALSE
+0312,Spazzola,setole morbide,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0314,Scarpe protettive,Taglia XS,Dispositivi medici e igienici,15.00,TRUE,FALSE
+0330,Spazzola ,pelo corto,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0332,Spazzola,pelo corto,Dispositivi medici e igienici,5.00,TRUE,FALSE
+0349,Spazzola,pelo corto,Dispositivi medici e igienici,5.00,TRUE,FALSE
 0016,Gioco ""Catch"","Gioco in plastica, disponibili 3 pezzi in tre diverse colorazioni",Giochi,5.00,TRUE,FALSE
 0019,Gioco lancia pallina,,Giochi,5.00,TRUE,FALSE
 0110,Ciambella,"Piccola, in plastica",Giochi,5.00,TRUE,FALSE
